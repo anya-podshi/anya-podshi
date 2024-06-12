@@ -1,16 +1,22 @@
-## Hi there 👋
+## About me
 
-<!--
-**anya-podshi/anya-podshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+How to reach me: [Linkedin](https://www.linkedin.com/in/anyaa-podshi/) | [WhatsApp](https://wa.me/351920383795) | t44448ya@gmail.com |
+ [CV](https://drive.google.com/file/d/1uyaxWsD-X1zoHCufzefAtUUCvaRU2PaY/view?usp=sharing) 
 
-Here are some ideas to get you started:
+I'm a Computer Vision Engineer with a Master's degree in Data Science from HSE Technical Institute in 2023. I have 3 years of experience and finished 5+ DS projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Core projects in CV/DL:
+
+* Conducted research for a facial biometrics system (financial impact of $10M)
+* Developed a generative recommendation system with 96% accuracy
+* Implemented a CNN model from scratch for assessing the degree of blood agglutination (medical image classification) with 96% accuracy
+
+Core projects areas: BigTech, FinTech, MedTech
+
+Skills:
+
+Computer Vision: classification, segmentation, object detection, image generation
+Deep Learning: CNNs, Visual Transformers, GANs, Transfer Learning
+Python: PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib
+
+
