@@ -13,7 +13,7 @@ Core projects in **CV**/DL:
 
 Core projects areas: BigTech, FinTech, MedTech
 
-Skills:
+## Skills
 
 * **Computer Vision**: classification, segmentation, object detection, image generation
 * **Deep Learning**: CNNs, Visual Transformers, GANs, Transfer Learning
