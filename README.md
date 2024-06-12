@@ -16,7 +16,9 @@ Core projects areas: BigTech, FinTech, MedTech
 Skills:
 
 Computer Vision: classification, segmentation, object detection, image generation
+
 Deep Learning: CNNs, Visual Transformers, GANs, Transfer Learning
+
 Python: PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib
 
 
