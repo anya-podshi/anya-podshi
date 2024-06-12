@@ -1,8 +1,5 @@
 ## About me
 
-How to reach me: [Linkedin](https://www.linkedin.com/in/anyaa-podshi/) | [WhatsApp](https://wa.me/351920383795) | t44448ya@gmail.com |
- [CV](https://drive.google.com/file/d/1uyaxWsD-X1zoHCufzefAtUUCvaRU2PaY/view?usp=sharing) 
-
 I'm a **Computer Vision** Engineer with a **Master's degree** in Data Science from HSE Technical Institute in 2023. I have **3 years** of experience and finished 5+ DS projects
 
 Core projects in **CV**/DL:
@@ -19,4 +16,7 @@ Core projects areas: BigTech, FinTech, MedTech
 * **Deep Learning**: CNNs, Visual Transformers, GANs, Transfer Learning
 * **Python**: PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib
 
+## Contacts
 
+[Linkedin](https://www.linkedin.com/in/anyaa-podshi/) | [WhatsApp](https://wa.me/351920383795) | t44448ya@gmail.com |
+ [CV](https://drive.google.com/file/d/1uyaxWsD-X1zoHCufzefAtUUCvaRU2PaY/view?usp=sharing) 
